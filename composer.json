@@ -1,6 +1,6 @@
 {
     "name": "antidot-fw/aura-container-config",
-    "description": "Anti.Framework Aura container config library",
+    "description": "Antidot Framework Aura container config library",
     "keywords": [
         "psr-11"
     ],
