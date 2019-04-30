@@ -49,10 +49,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "extra": {
-        "zf": {
-            "config-provider": "Antidot\\Container\\Config\\ConfigProvider"
-        }
     }
 }
